@@ -1,4 +1,3 @@
 # Instagram
 
-![Uploading ScreenshotLOGO.png…]()
 
