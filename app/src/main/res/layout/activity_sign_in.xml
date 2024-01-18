@@ -95,7 +95,7 @@
 
 
     <Button
-        android:id="@+id/elevatedButton"
+        android:id="@+id/sign_un_btn"
         style="@style/Widget.Material3.Button.Icon"
         android:layout_width="0dp"
         android:layout_height="45dp"
@@ -118,7 +118,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/elevatedButton" />
+        app:layout_constraintTop_toBottomOf="@+id/sign_un_btn" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
