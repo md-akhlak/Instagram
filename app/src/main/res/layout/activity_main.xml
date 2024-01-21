@@ -24,9 +24,16 @@
         android:layout_width="115dp"
         android:layout_height="32dp"
         android:layout_marginBottom="25dp"
-        android:drawableLeft="@drawable/meta_s"
 
-        android:gravity="center"
+        android:backgroundTint="#8C3887"
+
+        android:drawableLeft="@drawable/meta_s"
+        android:drawablePadding="8dp"
+        android:drawableTint="@color/pink_ig"
+        android:foregroundGravity="center"
+        android:gravity="start"
+        android:includeFontPadding="false"
+        android:shadowColor="#9C3F3F"
         android:text="meta"
         android:textColor="@color/pink_ig"
         android:textSize="24sp"
